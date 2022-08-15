@@ -1,0 +1,21 @@
+{
+  "name": "github-actions-deploy-nodejs-to-ec2",
+  "version": "1.0.0",
+  "description": "Deploy nodeJS application to AWS using github action",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dirac156/github-actions-deploy-nodejs-to-ec2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dirac156/github-actions-deploy-nodejs-to-ec2/issues"
+  },
+  "homepage": "https://github.com/Dirac156/github-actions-deploy-nodejs-to-ec2#readme"
+}
