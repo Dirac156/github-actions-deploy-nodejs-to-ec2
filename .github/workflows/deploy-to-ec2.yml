@@ -22,9 +22,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - run: | 
-          npm ci
-          ls
+      # - run: | 
+      #     npm ci
+      #     rm -r node_modules/
 
       - name: rsync deployments
         uses: burnett01/rsync-deployments@5.1
