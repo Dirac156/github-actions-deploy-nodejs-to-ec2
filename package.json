@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Dirac156/github-actions-deploy-nodejs-to-ec2/issues"
   },
-  "homepage": "https://github.com/Dirac156/github-actions-deploy-nodejs-to-ec2#readme"
+  "homepage": "https://github.com/Dirac156/github-actions-deploy-nodejs-to-ec2#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
